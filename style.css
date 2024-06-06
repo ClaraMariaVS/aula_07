@@ -1,0 +1,19 @@
+
+.navbar{
+    height: 200px;
+    background-color: chocolate;
+
+}
+
+.navbar-nav{
+    margin-left: 20%;
+}
+
+.nav-link{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.container-fluid{
+    background-color: greenyellow;
+}
